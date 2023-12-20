@@ -10,8 +10,8 @@ namespace loop
     {
         static void Main(string[] args)
         {
-            int a = 1;
-            for (int i = 0; i <a; )
+           
+            while (true)
             {
                 
                 Console.ForegroundColor = ConsoleColor.Blue;
